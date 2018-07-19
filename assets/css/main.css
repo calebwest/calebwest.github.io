@@ -4120,7 +4120,7 @@
 			}
 
 				#banner > .content a:hover {
-					color: #3dc5ad !important;
+					color: transparent !important;
 				}
 
 			#banner > .content strong, #banner > .content b {
